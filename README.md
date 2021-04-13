@@ -6,7 +6,7 @@ result.
 
 This project uses the great com.graphql-java-kickstart:graphql-spring-boot-starter project. 
 
-**To build it**
+**To build this:**
 
 `./gradlew build`
 
