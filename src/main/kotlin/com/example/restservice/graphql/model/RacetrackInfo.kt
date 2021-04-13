@@ -1,4 +1,4 @@
-package com.example.restservice.resolver.model
+package com.example.restservice.graphql.model
 
 data class RacetrackInfo(
     val name: String,

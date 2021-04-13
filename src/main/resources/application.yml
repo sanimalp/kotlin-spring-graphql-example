@@ -3,3 +3,6 @@ graphql:
     enabled: true
     mapping: /graphql
     async-mode-enabled: true
+
+server:
+  port: 9090
