@@ -1,0 +1,10 @@
+type Query{
+    racetrack(countryCode: String): RacetrackInfo
+}
+
+type RacetrackInfo {
+    name: String
+    country: String
+    length(unit: LengthUnit = METER): Float
+    lapRecord: String
+}

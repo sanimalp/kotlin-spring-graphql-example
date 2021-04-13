@@ -1,0 +1,5 @@
+graphql:
+  servlet:
+    enabled: true
+    mapping: /graphql
+    async-mode-enabled: true
