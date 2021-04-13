@@ -6,11 +6,15 @@ result.
 
 This project uses the great com.graphql-java-kickstart:graphql-spring-boot-starter project. 
 
+**To build it**
+
+`./gradlew build`
+
 **To run this:** 
 
 `./gradlew bootRun`
 
-To hit the enpoint, use the curl: 
+**To hit the enpoint, use the curl:** 
 
 ```
 curl --request POST \
